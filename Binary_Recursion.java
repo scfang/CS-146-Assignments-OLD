@@ -1,4 +1,3 @@
-package Assignment_01;
 
 /**
  * Scott Fang
